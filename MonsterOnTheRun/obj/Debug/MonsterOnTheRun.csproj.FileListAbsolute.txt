@@ -1,0 +1,9 @@
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\bin\Debug\MonsterOnTheRun.exe.config
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\bin\Debug\MonsterOnTheRun.exe
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\bin\Debug\MonsterOnTheRun.pdb
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.Properties.Resources.resources
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.csproj.GenerateResource.cache
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.exe
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.pdb
+C:\Users\Hemat Shah\Engineering45\week4\Day1\MonsterOnTheRun\MonsterOnTheRun\obj\Debug\MonsterOnTheRun.MainBodyForm.resources
